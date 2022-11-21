@@ -1,6 +1,4 @@
-## The-Repo-Office
-
-**Here are some ideas to get you started:**
+# The-Repo-Office
 
 - 🙋‍♀️ A short introduction - what is your organization all about?
 - 🌈 Contribution guidelines - how can the community get involved?
