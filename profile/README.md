@@ -1,8 +1,6 @@
 # The-Repo-Office
 
-<image src="./goku.gif" alt=Goku-Banner width=1440/>
-
-<image src="./goku.png" alt=Goku-Banner width=1440/>
+<image src="./goku.png" alt=Goku-Banner width=500/>
 
 - [The-Repo-Office - ](https://github.com/The-Repo-Office)![The-Repo-Office](https://komarev.com/ghpvc/?username=The-Repo-Office)
 
